@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+    background: #eeeeee;
+}
+
+input.input-error{
+    border: 1px solid #d9534f;
+    color: #d9534f;
+}
+
+input.input-ok{
+    border: 1px solid #5cb85c;
+    color: #5cb85c;
+}
+
+.event-buttons .btn{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.calculate-inputs{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.calculator-results .btn{
+    width: 175px;
+}
+
+.calculator-results input{
+    font-size: 24px;
+    height: 50px;
+}
